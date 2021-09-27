@@ -607,7 +607,7 @@ ul.menu li:hover ul.drop-menu{
 }
 .footer-contact-item a {
     display: block;
-    margin-top: 5px;
+    margin-top: 0;
     position: relative;
     top: -45px;
     left: 50px;
